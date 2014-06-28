@@ -21,7 +21,7 @@ OK后，再写上一个名字，比如ADT-23.0.0：
 
 然后经过Pending解析后，就可以看到对应的：Developer Tools,选中Developer Tools,并去掉左下角最下面的一个选项前的对勾，不然会安装的很慢：
 
-![Select Developer Tools](http://awcntt-article-image.qiniudn.com/devtools_install-add-adt-plugin-finish.png)
+![Select Developer Tools](http://awcntt-article-image.qiniudn.com/devtools_install-add-adt-plugin-finish2.png)
 
 然后Next，然后继续next，然后点击接受协议和完成：
 
